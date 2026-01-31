@@ -8,7 +8,6 @@ Sign in Screen             |             Home Screen             |             S
 :-------------------------:|:-----------------------------------:|:----------------------------------:|:-------------------------:
 ![Sign in image](images/1.jpeg)  | ![Home screen image](images/2.jpeg) | ![Send money image](images/3.jpeg) | ![Transaction History](images/4.jpeg)
 
-#### Dark Theme
 Local Transaction screen            |             Profile Screen             |         Balance screen          
 :-------------------------:|:--------------------------------------:|:-------------------------------:
 ![local transaction image](images/5.jpeg)  | ![Profile screen image](images/6.jpeg) | ![Balance image](images/7.jpeg)
